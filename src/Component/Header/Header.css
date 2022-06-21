@@ -1,0 +1,23 @@
+.header {
+    align-items: center;
+    background-color: rgba(7, 119, 119, 0.384);
+    padding: 5px;
+    position: fixed;
+    position: inherit;
+}
+
+.color-h1 {
+    color: green;
+}
+
+p {
+    font-weight: 900;
+}
+
+.span {
+    color: goldenrod;
+}
+
+.number-30 {
+    color: black;
+}
